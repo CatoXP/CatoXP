@@ -2,7 +2,7 @@
 
 # Brandon Uriel Garcia Sanchez
 
-### Científico de Datos para Negocios (en formación) — Finanzas & IA
+### Científico de Datos para Negocios — Finanzas & IA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:garciasanchezbrandonu@gmail.com)
