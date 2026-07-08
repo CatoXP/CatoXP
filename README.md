@@ -41,6 +41,7 @@ Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); ad
 | [🐄 Detección de Patologías Bovinas (CV + ML)](https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales) | Dataset propio de 391 imágenes, CNN YOLOv8 con transfer learning + clasificación de salud por termografía infrarroja | Python, CV2, YOLOv8, Scikit-learn |
 | [📈 Análisis Predictivo de Consumo Retail](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail) | Reglas de asociación + dashboard Power BI para impulsar ventas | Python, SQL, Power BI |
 | [🚇 Análisis de Robos en el Metro CDMX](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-robos-metro-cdmx) | Limpieza y análisis de incidentes delictivos 2020–2025 con regresión lineal | Python, Power BI |
+| [🫓 Análisis de Tortillas en México](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-tortillas-mexico) | Análisis de precios de la tortilla en México | Python |
 | [📁 Portfolio completo](https://github.com/CatoXP/portfolio-data-science) | Todos mis proyectos de ciencia de datos, organizados por tipo | — |
 
 ---
