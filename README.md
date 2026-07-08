@@ -14,10 +14,10 @@
 
 ### 👋 Sobre mí
 
-Estudiante de la Licenciatura en Ciencias de Datos para Negocios en la **Universidad Nacional Rosario Castellanos** (egreso previsto: dic. 2028), actualmente becario de Desarrollo y Automatización en **HSBC GSC**. Me mueve la analítica empresarial y construir modelos de machine learning / deep learning que resuelvan problemas reales de negocio. Mi objetivo es contribuir al crecimiento organizacional a través de soluciones innovadoras basadas en datos.
+Estudiante de la Licenciatura en Ciencias de Datos para Negocios en la **Universidad Nacional Rosario Castellanos** (egreso previsto: dic. 2028), actualmente becario en **HSBC GSC**. Me mueve la analítica empresarial y construir modelos de machine learning / deep learning que resuelvan problemas reales de negocio. Mi objetivo es contribuir al crecimiento organizacional a través de soluciones innovadoras basadas en datos.
 
 - 🎓 Ciencias de Datos para Negocios — Universidad Rosario Castellanos (2024–2028)
-- 💼 Becario de Desarrollo y Automatización en **HSBC** (Python, VBA, Excel) — desde mayo 2026
+- 💼 Becario **HSBC** (Python, VBA, Excel, Reportes) — desde mayo 2026
 - 🌱 En mentoría profesional con **Inroads** (comunicación, liderazgo, networking)
 - 📊 Especializándome en analítica financiera, machine learning y automatización de procesos
 - 🔭 Subiendo proyectos nuevos conforme los voy terminando — [portfolio completo aquí](https://github.com/CatoXP/portfolio-data-science)
@@ -26,9 +26,8 @@ Estudiante de la Licenciatura en Ciencias de Datos para Negocios en la **Univers
 
 ### 💼 Experiencia
 
-**Becario de Desarrollo y Automatización — HSBC** · *mayo 2026 – actual*
-Automatización de procesos operativos con Python, VBA y Excel; diseño de macros para consolidación de información; desarrollo de una solución con interfaz gráfica en Python para gestión de procesos internos.
-
+**Becario — HSBC** · *mayo 2026 – actual*
+Automatización de procesos operativos con Python,reportes , VBA y Excel; diseño de macros para consolidación de información; Optimización de procesos con lógica en python e interfaz grafica para gestión de procesos internos
 **Database Manager — MAXI** · *sep 2022 – oct 2024*
 Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); administración de un ERP interno; análisis de ventas históricas para decisiones de reabastecimiento (+10% ventas).
 
