@@ -2,7 +2,7 @@
 
 # Brandon Uriel Garcia Sanchez
 
-### Científico de Datos para Negocios — Finanzas & IA
+### Científico de Datos para Negocios (en formación) — Finanzas & IA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:garciasanchezbrandonu@gmail.com)
@@ -14,10 +14,10 @@
 
 ### 👋 Sobre mí
 
-Estudiante de la Licenciatura en Ciencias de Datos para Negocios en la **Universidad Nacional Rosario Castellanos** (egreso previsto: dic. 2028), actualmente becario en **HSBC GSC**. Me mueve la analítica empresarial y construir modelos de machine learning / deep learning que resuelvan problemas reales de negocio. Mi objetivo es contribuir al crecimiento organizacional a través de soluciones innovadoras basadas en datos.
+Estudiante de la Licenciatura en Ciencias de Datos para Negocios en la **Universidad Nacional Rosario Castellanos** (egreso previsto: dic. 2028), actualmente becario de Desarrollo y Automatización en **HSBC GSC**. Me mueve la analítica empresarial y construir modelos de machine learning / deep learning que resuelvan problemas reales de negocio. Mi objetivo es contribuir al crecimiento organizacional a través de soluciones innovadoras basadas en datos.
 
 - 🎓 Ciencias de Datos para Negocios — Universidad Rosario Castellanos (2024–2028)
-- 💼 Becario **HSBC GSC** (Python, VBA, Excel, Reportes) — desde mayo 2026
+- 💼 Becario de Desarrollo y Automatización en **HSBC** (Python, VBA, Excel) — desde mayo 2026
 - 🌱 En mentoría profesional con **Inroads** (comunicación, liderazgo, networking)
 - 📊 Especializándome en analítica financiera, machine learning y automatización de procesos
 - 🔭 Subiendo proyectos nuevos conforme los voy terminando — [portfolio completo aquí](https://github.com/CatoXP/portfolio-data-science)
@@ -26,8 +26,9 @@ Estudiante de la Licenciatura en Ciencias de Datos para Negocios en la **Univers
 
 ### 💼 Experiencia
 
-**Becario — HSBC GSC** · *mayo 2026 – actual*
-Automatización de procesos operativos con Python,reportes , VBA y Excel; diseño de macros para consolidación de información; Optimización de procesos con lógica en python e interfaz grafica para gestión de procesos internos
+**Becario de Desarrollo y Automatización — HSBC** · *mayo 2026 – actual*
+Automatización de procesos operativos con Python, VBA y Excel; diseño de macros para consolidación de información; desarrollo de una solución con interfaz gráfica en Python para gestión de procesos internos.
+
 **Database Manager — MAXI** · *sep 2022 – oct 2024*
 Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); administración de un ERP interno; análisis de ventas históricas para decisiones de reabastecimiento (+10% ventas).
 
@@ -37,6 +38,7 @@ Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); ad
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [💳 Credit Scoring Prediction](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting) | Modelo de riesgo crediticio (Kaggle - Give Me Some Credit): EDA con evidencia, feature engineering, comparación de modelos y explicabilidad con SHAP | Python, scikit-learn, SHAP |
 | [🐄 Detección de Patologías Bovinas (CV + ML)](https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales) | Dataset propio de 391 imágenes, CNN YOLOv8 con transfer learning + clasificación de salud por termografía infrarroja | Python, CV2, YOLOv8, Scikit-learn |
 | [📈 Análisis Predictivo de Consumo Retail](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail) | Reglas de asociación + dashboard Power BI para impulsar ventas | Python, SQL, Power BI |
 | [🚇 Análisis de Robos en el Metro CDMX](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-robos-metro-cdmx) | Limpieza y análisis de incidentes delictivos 2020–2025 con regresión lineal | Python, Power BI |
