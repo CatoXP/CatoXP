@@ -1,58 +1,55 @@
 <div align="center">
 
-[🇺🇸 English](README.md) · **🇲🇽 Español**
+<sub><a href="README.md">🇺🇸 English</a> · <b>🇲🇽 Español</b></sub>
 
-# Hola, soy Brandon Uriel Garcia Sanchez 👋
+<img src="assets/banner_es.svg" width="100%" alt="URIEL — Científico de Datos para Negocios · Finanzas · IA · Big Data">
 
-<a href="https://github.com/CatoXP"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Cient%C3%ADfico+de+Datos+para+Negocios+(en+formaci%C3%B3n);Machine+Learning+%C2%B7+Finanzas+%C2%B7+IA;Top+16+%C2%B7+GCI+World+2026+(Universidad+de+Tokio);Becario+de+Desarrollo+y+Automatizaci%C3%B3n+%40+HSBC" alt="Typing SVG"></a>
+<p><a href="#projects"><img src="assets/menu_projects_es.svg" height="44" alt="Proyectos"></a>&nbsp;<a href="#experience"><img src="assets/menu_experience_es.svg" height="44" alt="Experiencia"></a>&nbsp;<a href="#stack"><img src="assets/menu_stack_es.svg" height="44" alt="Stack"></a>&nbsp;<a href="#contact"><img src="assets/menu_contact_es.svg" height="44" alt="Contacto"></a></p>
 
-**Convierto datos de negocio en modelos de machine learning y automatizaciones que ayudan a tomar decisiones.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garciasanchezbrandonu@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-1A1B27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CatoXP/portfolio-data-science)
-![Ciudad de México](https://img.shields.io/badge/📍_Ciudad_de_México-555555?style=for-the-badge)
+**Convierto datos de negocio en modelos de machine learning y automatizaciones que ayudan a tomar decisiones**, con foco en finanzas y riesgo crediticio.
 
 </div>
 
----
+<img src="assets/h_highlights_es.svg" width="70%" alt="Logros">
 
-### 🏆 Logros destacados
-
-- 🥇 **Top 16** en la competencia de Machine Learning de **GCI World 2026**, el programa de ciencia de datos del **Matsuo-Iwasawa Lab, The University of Tokyo** (ROC-AUC 0.774) — [ver proyecto](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo)
+- 🥇 **Top 16** en la competencia de ML de **GCI World 2026**, el programa de ciencia de datos del **Matsuo-Iwasawa Lab, The University of Tokyo** (ROC-AUC 0.774)
 - ⚡ **−30% en tiempo de procesamiento** al rediseñar la estructura de la base de datos y las consultas SQL en MAXI
 - 📈 **+10% en ventas** usando el análisis de ventas históricas para decidir el reabastecimiento
-- 🐄 Construí **mi propio dataset de 391 imágenes** y entrené un modelo YOLOv8 para detectar patologías en bovinos
+- 💼 **Becario de Desarrollo y Automatización en HSBC GSC** desde mayo 2026 · 🎓 Lic. en Ciencias de Datos para Negocios, UNRC (2024 – 2028) · 🌱 mentoría con **Inroads**
 
-### 🔭 Actualmente
+<a name="projects"></a>
+<img src="assets/h_projects_es.svg" width="70%" alt="Proyectos destacados">
 
-- 💼 **Becario de Desarrollo y Automatización en HSBC GSC** (desde mayo 2026): automatización con Python, VBA y Excel
-- 🎓 **Licenciatura en Ciencias de Datos para Negocios**, Universidad Nacional Rosario Castellanos (2024 – 2028)
-- 🇯🇵 Cursando **GCI World 2026**, el programa de IA y ciencia de datos de la Universidad de Tokio
-- 🌱 En mentoría profesional con **Inroads** (comunicación, liderazgo, networking)
+<p align="center">
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting"><img src="assets/card_credit_es.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_es.svg" width="49%" alt="Home Credit Default Risk — Top 16"></a>
+<a href="https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales"><img src="assets/card_bovinos_es.svg" width="49%" alt="Detección de Patologías Bovinas — 391 imágenes"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_es.svg" width="49%" alt="Consumo Retail Predictivo — Power BI"></a>
+</p>
 
-### 👨‍💻 Sobre mí
+<img src="assets/h_more_es.svg" width="70%" alt="Más proyectos">
 
-Me apasionan la **analítica empresarial** y construir modelos de **machine learning / deep learning** que resuelvan problemas
-reales de negocio, sobre todo en **finanzas y riesgo crediticio**. Me importan la validación rigurosa, la explicabilidad y entender
-los datos antes de elegir un modelo.
+<p align="center">
+<a href="https://catoxp.github.io/torre-del-caribe-unrc-2026/"><img src="assets/card_torre_es.svg" width="49%" alt="Torre del Caribe — 8.1M registros"></a>
+</p>
 
----
+| Proyecto | Qué es | Enlaces |
+|---|---|---|
+| 🌴 **Torre del Caribe** | Proyecto en equipo (responsable técnico): campaña de turismo con datos para el sur de Quintana Roo, 8.1M registros de 15 fuentes oficiales | [Sitio en línea](https://catoxp.github.io/torre-del-caribe-unrc-2026/) · [Repo](https://github.com/CatoXP/torre-del-caribe-unrc-2026) |
+| 🏥 **Sistema de Citas — Centro de Salud** | Reserva de citas médicas en línea con validación y confirmación para el Centro de Salud Rafael Carrillo | [Sitio en línea](https://catoxp.github.io/centro-de-salud-rafael-carrillo-sistema-citas/) · [Repo](https://github.com/CatoXP/centro-de-salud-rafael-carrillo-sistema-citas) |
+| 🎓 **Deserción Escolar (EDA)** | Análisis de la tasa de abandono escolar en México y en la UNRC, con SQL y puntaje de riesgo | [Repo](https://github.com/CatoXP/Deserci-n-Escolar-EDA-DB) |
+| 💊 **Proyección de Medicamentos — Iztapalapa** | Proyección del consumo de medicamentos y simulación de control de calidad en lotes | [Repo](https://github.com/CatoXP/Simulacion-y-Proyeccion-de-Medicamentos-en-Iztapalapa-usando-Ciencia-de-Datos) |
+| 📁 **Portafolio completo** | Todos mis proyectos de ciencia de datos, organizados por tipo | [Repo](https://github.com/CatoXP/portfolio-data-science) |
 
-### 📌 Proyectos destacados
+<img src="assets/h_fun_es.svg" width="70%" alt="For fun">
 
-| Proyecto | Qué hace | Resultado | Stack |
-|---|---|---|---|
-| [💳 **Credit Scoring Prediction**](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting) | Modelo de riesgo crediticio (Kaggle — Give Me Some Credit): EDA con evidencia, feature engineering, comparación de modelos | Predicciones explicables con **SHAP** | Python · scikit-learn · SHAP |
-| [🏆 **Home Credit Default Risk — GCI World 2026**](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo) | Competencia de ML de la Universidad de Tokio: plazo y tasa de interés recuperados con la fórmula de anualidades, huella de "misma persona", ensamble de 4 modelos | **Top 16**, AUC **0.774** | LightGBM · XGBoost · CatBoost |
-| [🐄 **Detección de Patologías Bovinas (CV + ML)**](https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales) | Dataset propio de 391 imágenes, YOLOv8 con transfer learning + clasificación de salud por termografía infrarroja | Pipeline completo de visión por computadora | Python · OpenCV · YOLOv8 · scikit-learn |
-| [📈 **Análisis Predictivo de Consumo Retail**](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail) | Reglas de asociación + dashboard de Power BI para impulsar las ventas de una tienda | **Dashboard interactivo** en Power BI | Python · SQL · Power BI |
+<p align="center">
+<a href="https://catoxp.github.io/portafolio-datascience-arcade/"><img src="assets/card_fun_es.svg" width="49%" alt="Portafolio arcade — for fun"></a>
+</p>
+<p align="center"><sub>No es un proyecto serio: mi portafolio convertido en un menú de consola estilo JRPG, solo porque sí. <a href="https://catoxp.github.io/portafolio-datascience-arcade/">Presiona start ▶</a></sub></p>
 
-➡️ **[Portafolio completo](https://github.com/CatoXP/portfolio-data-science)**: todos mis proyectos de ciencia de datos, organizados por tipo.
-
----
-
-### 💼 Experiencia
+<a name="experience"></a>
+<img src="assets/h_experience_es.svg" width="70%" alt="Experiencia">
 
 **Becario de Desarrollo y Automatización — HSBC GSC** · *mayo 2026 – actual*
 Automatización de procesos operativos con Python, VBA y Excel; macros para consolidar información; aplicación de escritorio en Python (interfaz gráfica) para gestionar procesos internos.
@@ -60,40 +57,37 @@ Automatización de procesos operativos con Python, VBA y Excel; macros para cons
 **Database Manager — MAXI** · *sep 2022 – oct 2024*
 Optimización de la estructura y de las consultas SQL (**−30% de tiempo de procesamiento**); administración de un ERP interno; análisis de ventas históricas para decidir el reabastecimiento (**+10% en ventas**).
 
----
+<a name="stack"></a>
+<img src="assets/h_stack_es.svg" width="70%" alt="Stack técnico">
 
-### 🛠️ Stack técnico
+<p>
+<img src="https://img.shields.io/badge/Python-17171a?style=for-the-badge&logo=python&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/Pandas-17171a?style=for-the-badge&logo=pandas&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/NumPy-17171a?style=for-the-badge&logo=numpy&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/scikit--learn-17171a?style=for-the-badge&logo=scikitlearn&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/LightGBM-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/XGBoost-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/CatBoost-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/TensorFlow-17171a?style=for-the-badge&logo=tensorflow&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/Keras-17171a?style=for-the-badge&logo=keras&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/YOLOv8-17171a?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/SQL-ff2e3a?style=for-the-badge&logo=postgresql&logoColor=0a0a0b&labelColor=ff2e3a">
+<img src="https://img.shields.io/badge/MongoDB-ff2e3a?style=for-the-badge&logo=mongodb&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/Cassandra-ff2e3a?style=for-the-badge&logo=apachecassandra&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/Hadoop-ff2e3a?style=for-the-badge&logo=apachehadoop&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/Spark-ff2e3a?style=for-the-badge&logo=apachespark&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/Azure_AI-ff2e3a?style=for-the-badge&logo=microsoftazure&logoColor=0a0a0b">
+<br>
+<img src="https://img.shields.io/badge/Power_BI-f2ede3?style=for-the-badge&logo=powerbi&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/Tableau-f2ede3?style=for-the-badge&logo=tableau&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/Excel%2FVBA-f2ede3?style=for-the-badge&logo=microsoftexcel&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/Jupyter-f2ede3?style=for-the-badge&logo=jupyter&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/Git-f2ede3?style=for-the-badge&logo=git&logoColor=0a0a0b">
+<img src="https://img.shields.io/badge/LaTeX-f2ede3?style=for-the-badge&logo=latex&logoColor=0a0a0b">
+</p>
 
-**ML y ciencia de datos**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logoColor=white)
-
-**Datos e infraestructura**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**BI, negocio y herramientas**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel/VBA](https://img.shields.io/badge/Excel%2FVBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
----
-
-### 🎓 Certificaciones
+<img src="assets/h_certs_es.svg" width="70%" alt="Certificaciones">
 
 <details>
 <summary><b>🤖 Inteligencia Artificial y Machine Learning</b></summary>
@@ -144,27 +138,24 @@ Optimización de la estructura y de las consultas SQL (**−30% de tiempo de pro
 
 </details>
 
----
+<img src="assets/h_activity_es.svg" width="70%" alt="Actividad en GitHub">
 
-### 📈 Actividad en GitHub
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CatoXP&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a0b&title_color=ff2e3a&text_color=f2ede3&icon_color=ff2e3a&locale=es" height="165" alt="Estadísticas de GitHub">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatoXP&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=ff2e3a&text_color=f2ede3&locale=es" height="165" alt="Lenguajes principales">
+<br>
+<img src="https://streak-stats.demolab.com/?user=CatoXP&hide_border=true&background=0a0a0b&ring=ff2e3a&fire=ff2e3a&currStreakNum=f2ede3&sideNums=f2ede3&currStreakLabel=ff2e3a&sideLabels=8a8a8f&dates=8a8a8f&stroke=17171a&locale=es" alt="Racha en GitHub">
+</p>
 
-<div align="center">
+<a name="contact"></a>
+<img src="assets/h_contact_es.svg" width="70%" alt="Conectemos">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CatoXP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" height="165" alt="Estadísticas de GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatoXP&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165" alt="Lenguajes principales">
+<p align="center">
+Siempre con gusto de platicar sobre <b>ciencia de datos, analítica y machine learning</b>, sobre todo en finanzas y riesgo crediticio.<br><br>
+<a href="https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320"><img src="https://img.shields.io/badge/LinkedIn-ff2e3a?style=for-the-badge&logo=linkedin&logoColor=0a0a0b"></a>
+<a href="mailto:garciasanchezbrandonu@gmail.com"><img src="https://img.shields.io/badge/Email-f2ede3?style=for-the-badge&logo=gmail&logoColor=0a0a0b"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science"><img src="https://img.shields.io/badge/Portafolio-17171a?style=for-the-badge&logo=github&logoColor=ff2e3a"></a>
+<a href="https://catoxp.github.io/portafolio-datascience-arcade/"><img src="https://img.shields.io/badge/Portafolio_arcade-17171a?style=for-the-badge&logo=githubpages&logoColor=f2c811"></a>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=CatoXP&theme=tokyonight&hide_border=true&locale=es" alt="Racha en GitHub">
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Conectemos
-
-Siempre con gusto de platicar sobre **ciencia de datos, analítica y machine learning**, sobre todo en finanzas y riesgo crediticio.
-
-[LinkedIn](https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320) · [garciasanchezbrandonu@gmail.com](mailto:garciasanchezbrandonu@gmail.com) · [Portafolio](https://github.com/CatoXP/portfolio-data-science)
-
-</div>
+<p align="center"><sub>Identidad visual compartida con mi <a href="https://catoxp.github.io/portafolio-datascience-arcade/">portafolio arcade</a>: void · blood · bone. Tipografías: Anton e Inter (SIL OFL).</sub></p>
