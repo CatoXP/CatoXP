@@ -1,103 +1,115 @@
 <div align="center">
 
-# Brandon Uriel Garcia Sanchez
+**🇺🇸 English** · [🇲🇽 Español](README.es.md)
 
-### Científico de Datos para Negocios (en formación) — Finanzas & IA
+# Hi, I'm Brandon Uriel Garcia Sanchez 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:garciasanchezbrandonu@gmail.com)
-[![Ubicación](https://img.shields.io/badge/📍-Ciudad%20de%20México-555555?style=flat-square)]()
+<a href="https://github.com/CatoXP"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Business+Data+Scientist+in+training;Machine+Learning+%C2%B7+Finance+%C2%B7+AI;Top+16+%C2%B7+GCI+World+2026+(University+of+Tokyo);Development+%26+Automation+Intern+%40+HSBC" alt="Typing SVG"></a>
+
+**I turn business data into machine learning models and automations that drive decisions.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garciasanchezbrandonu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CatoXP/portfolio-data-science)
+![Mexico City](https://img.shields.io/badge/📍_Mexico_City-555555?style=for-the-badge)
 
 </div>
 
 ---
 
-### 👋 Sobre mí
+### 🏆 Highlights
 
-Estudiante de la Licenciatura en Ciencias de Datos para Negocios en la **Universidad Nacional Rosario Castellanos** (egreso previsto: dic. 2028), actualmente becario de Desarrollo y Automatización en **HSBC GSC**. Me mueve la analítica empresarial y construir modelos de machine learning / deep learning que resuelvan problemas reales de negocio. Mi objetivo es contribuir al crecimiento organizacional a través de soluciones innovadoras basadas en datos.
+- 🥇 **Top 16** in the Machine Learning competition of **GCI World 2026**, the data science program of the **Matsuo-Iwasawa Lab, The University of Tokyo** (ROC-AUC 0.774) — [see project](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo)
+- ⚡ **−30% processing time** after redesigning database structure and SQL queries at MAXI
+- 📈 **+10% sales** by using historical sales analysis to drive restocking decisions
+- 🐄 Built my **own dataset of 391 images** and trained a YOLOv8 model to detect cattle pathologies
 
-- 🎓 Ciencias de Datos para Negocios — Universidad Rosario Castellanos (2024–2028)
-- 💼 Becario de Desarrollo y Automatización en **HSBC** (Python, VBA, Excel) — desde mayo 2026
-- 🌱 En mentoría profesional con **Inroads** (comunicación, liderazgo, networking)
-- 🏆 **Top 16** en la competencia de Machine Learning de **GCI World 2026** (Matsuo-Iwasawa Lab, The University of Tokyo) — [ver proyecto](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo)
-- 📊 Especializándome en analítica financiera, machine learning y automatización de procesos
-- 🔭 Subiendo proyectos nuevos conforme los voy terminando — [portfolio completo aquí](https://github.com/CatoXP/portfolio-data-science)
+### 🔭 Right now
 
----
+- 💼 **Development & Automation Intern at HSBC GSC** (since May 2026) — Python, VBA and Excel automation
+- 🎓 **B.Sc. in Data Science for Business** at Universidad Nacional Rosario Castellanos (2024 – 2028)
+- 🇯🇵 Studying in **GCI World 2026** — University of Tokyo's AI & data science program
+- 🌱 Professional mentoring with **Inroads** (communication, leadership, networking)
 
-### 💼 Experiencia
+### 👨‍💻 About me
 
-**Becario de Desarrollo y Automatización — HSBC** · *mayo 2026 – actual*
-Automatización de procesos operativos con Python, VBA y Excel; diseño de macros para consolidación de información; desarrollo de una solución con interfaz gráfica en Python para gestión de procesos internos.
-
-**Database Manager — MAXI** · *sep 2022 – oct 2024*
-Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); administración de un ERP interno; análisis de ventas históricas para decisiones de reabastecimiento (+10% ventas).
-
----
-
-### 📌 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [💳 Credit Scoring Prediction](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting) | Modelo de riesgo crediticio (Kaggle - Give Me Some Credit): EDA con evidencia, feature engineering, comparación de modelos y explicabilidad con SHAP | Python, scikit-learn, SHAP |
-| [🏆 Home Credit Default Risk — GCI World 2026 (Univ. de Tokio)](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo) | Competencia de ML del Matsuo-Iwasawa Lab, The University of Tokyo: **Top 16** del leaderboard público (AUC 0.774). Plazo y tasa de interés recuperados con la fórmula de anualidades, huella de "misma persona" y ensamble de 4 modelos | Python, LightGBM, XGBoost, CatBoost |
-| [🐄 Detección de Patologías Bovinas (CV + ML)](https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales) | Dataset propio de 391 imágenes, CNN YOLOv8 con transfer learning + clasificación de salud por termografía infrarroja | Python, CV2, YOLOv8, Scikit-learn |
-| [📈 Análisis Predictivo de Consumo Retail](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail) | Reglas de asociación + dashboard Power BI para impulsar ventas | Python, SQL, Power BI |
-| [📁 Portfolio completo](https://github.com/CatoXP/portfolio-data-science) | Todos mis proyectos de ciencia de datos, organizados por tipo | — |
+I'm passionate about **business analytics** and about building **machine learning / deep learning** models that solve real
+business problems — especially in **finance and credit risk**. I care about rigorous validation, explainability and
+understanding the data before choosing a model.
 
 ---
 
-### 🛠️ Stack técnico
+### 📌 Featured projects
 
-**Lenguajes y librerías**
+| Project | What it does | Result | Stack |
+|---|---|---|---|
+| [💳 **Credit Scoring Prediction**](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting) | Credit risk model (Kaggle — Give Me Some Credit): evidence-based EDA, feature engineering, model comparison | Explainable predictions with **SHAP** | Python · scikit-learn · SHAP |
+| [🏆 **Home Credit Default Risk — GCI World 2026**](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo) | University of Tokyo ML competition: recovered hidden loan term & interest rate by inverting the annuity formula, same-person fingerprinting, 4-model ensemble | **Top 16**, AUC **0.774** | LightGBM · XGBoost · CatBoost |
+| [🐄 **Cattle Pathology Detection (CV + ML)**](https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales) | Own 391-image dataset, YOLOv8 with transfer learning + health classification from infrared thermography | End-to-end computer vision pipeline | Python · OpenCV · YOLOv8 · scikit-learn |
+| [📈 **Predictive Retail Consumption**](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail) | Association rules + Power BI dashboard to boost a store's sales | Interactive **Power BI** dashboard | Python · SQL · Power BI |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-**Datos e infraestructura**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure%20AI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Visualización y negocio**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel%2FVBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Herramientas**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+➡️ **[Full portfolio](https://github.com/CatoXP/portfolio-data-science)** — all my data science projects, organised by type.
 
 ---
 
-### 🎓 Certificaciones
+### 💼 Experience
+
+**Development & Automation Intern — HSBC GSC** · *May 2026 – present*
+Automation of operational processes with Python, VBA and Excel; macros to consolidate information; a Python desktop app (GUI) to manage internal processes.
+
+**Database Manager — MAXI** · *Sep 2022 – Oct 2024*
+Database structure and SQL query optimisation (**−30% processing time**); administration of an internal ERP; historical sales analysis for restocking decisions (**+10% sales**).
+
+---
+
+### 🛠️ Tech stack
+
+**ML & data science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logoColor=white)
+
+**Data & infrastructure**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**BI, business & tools**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel/VBA](https://img.shields.io/badge/Excel%2FVBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+---
+
+### 🎓 Certifications
 
 <details>
-<summary><b>Inteligencia Artificial & Machine Learning</b></summary>
+<summary><b>🤖 AI & Machine Learning</b></summary>
 <br>
 
 - Microsoft Azure AI Essentials — Microsoft (2026)
-- Artificial Intelligence Fundamentals — IBM SkillBuild (2026)
+- Artificial Intelligence Fundamentals — IBM SkillsBuild (2026)
 - Introducción a la IA moderna — Cisco Networking Academy (2026)
 - Introduction to Generative AI — Google Cloud (2026)
-- Build AI Apps with ChatGPT, Dall-E y GPT-4 — Scrimba (2026)
+- Build AI Apps with ChatGPT, Dall-E and GPT-4 — Scrimba (2026)
 - Inteligencia Artificial generativa en finanzas y contabilidad — LinkedIn Learning (2026)
 
 </details>
 
 <details>
-<summary><b>Datos, Big Data & Analítica</b></summary>
+<summary><b>📊 Data, Big Data & Analytics</b></summary>
 <br>
 
 - Hadoop Foundations – Level 1 — IBM (2026)
@@ -105,14 +117,14 @@ Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); ad
 - Data Analytics Essentials — Cisco Networking Academy (2025)
 - Métodos estadísticos en data analytics — Accenture (2026)
 - Google Data Analytics: *Foundations*, *Ask Questions to Make Data-Driven Decisions*, *Prepare Data for Exploration* — Google (2026)
-- Google Analytics (en curso) — Google (2026)
+- Google Analytics (in progress) — Google (2026)
 - Introducción a Ciencia de Datos — Santander Open Academy (2025)
 - Analista de Datos — DS4B (2024)
 
 </details>
 
 <details>
-<summary><b>Finanzas & Negocio</b></summary>
+<summary><b>💰 Finance & Business</b></summary>
 <br>
 
 - Análisis financiero con Power BI — LinkedIn Learning (2026)
@@ -123,7 +135,7 @@ Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); ad
 </details>
 
 <details>
-<summary><b>Programación</b></summary>
+<summary><b>🐍 Programming</b></summary>
 <br>
 
 - Python Essentials 1 & 2 — Cisco / Python Institute (2025)
@@ -134,12 +146,14 @@ Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); ad
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub activity
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CatoXP&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CatoXP&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=CatoXP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatoXP&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
+
+<img src="https://streak-stats.demolab.com/?user=CatoXP&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
 </div>
 
@@ -147,6 +161,10 @@ Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); ad
 
 <div align="center">
 
-📬 **¿Hablamos?** [LinkedIn](https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320) · [garciasanchezbrandonu@gmail.com](mailto:garciasanchezbrandonu@gmail.com)
+### 🤝 Let's connect
+
+Always happy to talk about **data science, analytics and machine learning** — especially in finance and credit risk.
+
+[LinkedIn](https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320) · [garciasanchezbrandonu@gmail.com](mailto:garciasanchezbrandonu@gmail.com) · [Portfolio](https://github.com/CatoXP/portfolio-data-science)
 
 </div>
