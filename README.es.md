@@ -12,7 +12,7 @@
 
 <img src="assets/h_highlights_es.svg" width="70%" alt="Logros">
 
-- 🥇 **Top 16** en la competencia de ML de **GCI World 2026**, el programa de ciencia de datos del **Matsuo-Iwasawa Lab, The University of Tokyo** (ROC-AUC 0.774)
+- 🧠 Participé en la competencia de ML de **GCI World 2026**, el programa de ciencia de datos del **Matsuo-Iwasawa Lab, The University of Tokyo**: ROC-AUC **0.774** en el leaderboard público
 - ⚡ **−30% en tiempo de procesamiento** al rediseñar la estructura de la base de datos y las consultas SQL en MAXI
 - 📈 **+10% en ventas** usando el análisis de ventas históricas para decidir el reabastecimiento
 - 💼 **Becario de Desarrollo y Automatización en HSBC GSC** desde mayo 2026 · 🎓 Lic. en Ciencias de Datos para Negocios, UNRC (2024 – 2028) · 🌱 mentoría con **Inroads**
@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting"><img src="assets/card_credit_es.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
-<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_es.svg" width="49%" alt="Home Credit Default Risk — Top 16"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_es.svg" width="49%" alt="Home Credit Default Risk — AUC 0.774"></a>
 <a href="https://github.com/CatoXP/deteccion-bovinos-cnn"><img src="assets/card_bovinos_es.svg" width="49%" alt="Detección de Patologías Bovinas — 391 imágenes"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_es.svg" width="49%" alt="Consumo Retail Predictivo — Power BI"></a>
 </p>

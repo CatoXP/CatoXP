@@ -12,7 +12,7 @@
 
 <img src="assets/h_highlights_en.svg" width="70%" alt="Highlights">
 
-- 🥇 **Top 16** in the ML competition of **GCI World 2026**, the data science program of the **Matsuo-Iwasawa Lab, The University of Tokyo** (ROC-AUC 0.774)
+- 🧠 Competed in the ML competition of **GCI World 2026**, the data science program of the **Matsuo-Iwasawa Lab, The University of Tokyo** — public leaderboard ROC-AUC **0.774**
 - ⚡ **−30% processing time** after redesigning database structure and SQL queries at MAXI
 - 📈 **+10% sales** using historical sales analysis to drive restocking decisions
 - 💼 **Development & Automation Intern at HSBC GSC** since May 2026 · 🎓 B.Sc. Data Science for Business, UNRC (2024 – 2028) · 🌱 mentored by **Inroads**
@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting"><img src="assets/card_credit_en.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
-<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_en.svg" width="49%" alt="Home Credit Default Risk — Top 16"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_en.svg" width="49%" alt="Home Credit Default Risk — AUC 0.774"></a>
 <a href="https://github.com/CatoXP/deteccion-bovinos-cnn"><img src="assets/card_bovinos_en.svg" width="49%" alt="Cattle Pathology Detection — 391 images"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_en.svg" width="49%" alt="Predictive Retail Consumption — Power BI"></a>
 </p>
