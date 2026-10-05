@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting"><img src="assets/card_credit_es.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_es.svg" width="49%" alt="Home Credit Default Risk — Top 16"></a>
-<a href="https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales"><img src="assets/card_bovinos_es.svg" width="49%" alt="Detección de Patologías Bovinas — 391 imágenes"></a>
+<a href="https://github.com/CatoXP/deteccion-bovinos-cnn"><img src="assets/card_bovinos_es.svg" width="49%" alt="Detección de Patologías Bovinas — 391 imágenes"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_es.svg" width="49%" alt="Consumo Retail Predictivo — Power BI"></a>
 </p>
 
@@ -37,7 +37,7 @@
 |---|---|---|
 | 🌴 **Torre del Caribe** | Proyecto en equipo (responsable técnico): campaña de turismo con datos para el sur de Quintana Roo, 8.1M registros de 15 fuentes oficiales | [Sitio en línea](https://catoxp.github.io/torre-del-caribe-unrc-2026/) · [Repo](https://github.com/CatoXP/torre-del-caribe-unrc-2026) |
 | 🏥 **Sistema de Citas — Centro de Salud** | Reserva de citas médicas en línea con validación y confirmación para el Centro de Salud Rafael Carrillo | [Sitio en línea](https://catoxp.github.io/centro-de-salud-rafael-carrillo-sistema-citas/) · [Repo](https://github.com/CatoXP/centro-de-salud-rafael-carrillo-sistema-citas) |
-| 🎓 **Deserción Escolar (EDA)** | Análisis de la tasa de abandono escolar en México y en la UNRC, con SQL y puntaje de riesgo | [Repo](https://github.com/CatoXP/Deserci-n-Escolar-EDA-DB) |
+| 🎓 **Deserción Escolar (EDA)** | Análisis de la tasa de abandono escolar en México y en la UNRC, con SQL y puntaje de riesgo | [Repo](https://github.com/CatoXP/desercion-escolar-eda) |
 | 💊 **Proyección de Medicamentos — Iztapalapa** | Proyección del consumo de medicamentos y simulación de control de calidad en lotes | [Repo](https://github.com/CatoXP/Simulacion-y-Proyeccion-de-Medicamentos-en-Iztapalapa-usando-Ciencia-de-Datos) |
 | 📁 **Portafolio completo** | Todos mis proyectos de ciencia de datos, organizados por tipo | [Repo](https://github.com/CatoXP/portfolio-data-science) |
 

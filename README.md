@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting"><img src="assets/card_credit_en.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_en.svg" width="49%" alt="Home Credit Default Risk — Top 16"></a>
-<a href="https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales"><img src="assets/card_bovinos_en.svg" width="49%" alt="Cattle Pathology Detection — 391 images"></a>
+<a href="https://github.com/CatoXP/deteccion-bovinos-cnn"><img src="assets/card_bovinos_en.svg" width="49%" alt="Cattle Pathology Detection — 391 images"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_en.svg" width="49%" alt="Predictive Retail Consumption — Power BI"></a>
 </p>
 
@@ -37,7 +37,7 @@
 |---|---|---|
 | 🌴 **Torre del Caribe** | Team project (technical lead): data-driven tourism campaign for southern Quintana Roo, 8.1M rows from 15 official sources | [Live site](https://catoxp.github.io/torre-del-caribe-unrc-2026/) · [Repo](https://github.com/CatoXP/torre-del-caribe-unrc-2026) |
 | 🏥 **Health Centre Appointment System** | Online appointment booking with validation and confirmation for Centro de Salud Rafael Carrillo | [Live site](https://catoxp.github.io/centro-de-salud-rafael-carrillo-sistema-citas/) · [Repo](https://github.com/CatoXP/centro-de-salud-rafael-carrillo-sistema-citas) |
-| 🎓 **School Dropout EDA** | Dropout-rate analysis for Mexico and UNRC with SQL and risk scoring | [Repo](https://github.com/CatoXP/Deserci-n-Escolar-EDA-DB) |
+| 🎓 **School Dropout EDA** | Dropout-rate analysis for Mexico and UNRC with SQL and risk scoring | [Repo](https://github.com/CatoXP/desercion-escolar-eda) |
 | 💊 **Medication Projection — Iztapalapa** | Medication-consumption projection and quality-control simulation | [Repo](https://github.com/CatoXP/Simulacion-y-Proyeccion-de-Medicamentos-en-Iztapalapa-usando-Ciencia-de-Datos) |
 | 📁 **Full portfolio** | All my data science projects, organised by type | [Repo](https://github.com/CatoXP/portfolio-data-science) |
 
