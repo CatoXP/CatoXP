@@ -19,6 +19,7 @@ Estudiante de la Licenciatura en Ciencias de Datos para Negocios en la **Univers
 - 🎓 Ciencias de Datos para Negocios — Universidad Rosario Castellanos (2024–2028)
 - 💼 Becario de Desarrollo y Automatización en **HSBC** (Python, VBA, Excel) — desde mayo 2026
 - 🌱 En mentoría profesional con **Inroads** (comunicación, liderazgo, networking)
+- 🏆 **Top 16** en la competencia de Machine Learning de **GCI World 2026** (Matsuo-Iwasawa Lab, The University of Tokyo) — [ver proyecto](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo)
 - 📊 Especializándome en analítica financiera, machine learning y automatización de procesos
 - 🔭 Subiendo proyectos nuevos conforme los voy terminando — [portfolio completo aquí](https://github.com/CatoXP/portfolio-data-science)
 
@@ -39,6 +40,7 @@ Optimización de estructura y consultas SQL (−30% tiempo de procesamiento); ad
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [💳 Credit Scoring Prediction](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting) | Modelo de riesgo crediticio (Kaggle - Give Me Some Credit): EDA con evidencia, feature engineering, comparación de modelos y explicabilidad con SHAP | Python, scikit-learn, SHAP |
+| [🏆 Home Credit Default Risk — GCI World 2026 (Univ. de Tokio)](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo) | Competencia de ML del Matsuo-Iwasawa Lab, The University of Tokyo: **Top 16** del leaderboard público (AUC 0.774). Plazo y tasa de interés recuperados con la fórmula de anualidades, huella de "misma persona" y ensamble de 4 modelos | Python, LightGBM, XGBoost, CatBoost |
 | [🐄 Detección de Patologías Bovinas (CV + ML)](https://github.com/CatoXP/Detecci-n-de-bovinos-con-redes-neuronales-convolucionales) | Dataset propio de 391 imágenes, CNN YOLOv8 con transfer learning + clasificación de salud por termografía infrarroja | Python, CV2, YOLOv8, Scikit-learn |
 | [📈 Análisis Predictivo de Consumo Retail](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail) | Reglas de asociación + dashboard Power BI para impulsar ventas | Python, SQL, Power BI |
 | [🚇 Análisis de Robos en el Metro CDMX](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-robos-metro-cdmx) | Limpieza y análisis de incidentes delictivos 2020–2025 con regresión lineal | Python, Power BI |
