@@ -2,17 +2,18 @@
 
 <sub><a href="README.md">🇺🇸 English</a> · <b>🇲🇽 Español</b></sub>
 
-<img src="assets/banner_es.svg" width="100%" alt="URIEL — Científico de Datos para Negocios · Finanzas · IA · Big Data">
+<img src="assets/banner_es.svg" width="100%" alt="URIEL — Científico de Datos · ML & AI Engineer · RAG · LLMs · Finanzas">
 
 <p><a href="#projects"><img src="assets/menu_projects_es.svg" height="44" alt="Proyectos"></a>&nbsp;<a href="#experience"><img src="assets/menu_experience_es.svg" height="44" alt="Experiencia"></a>&nbsp;<a href="#stack"><img src="assets/menu_stack_es.svg" height="44" alt="Stack"></a>&nbsp;<a href="#contact"><img src="assets/menu_contact_es.svg" height="44" alt="Contacto"></a></p>
 
-**Convierto datos de negocio en modelos de machine learning y automatizaciones que ayudan a tomar decisiones**, con foco en finanzas y riesgo crediticio.
+**Científico de datos que construye modelos de machine learning y herramientas con LLMs (RAG) para convertir datos en decisiones**, con foco en finanzas, riesgo crediticio y regulación bancaria.
 
 </div>
 
 <img src="assets/h_highlights_es.svg" width="70%" alt="Logros">
 
-- 🧠 Participé en la competencia de ML de **GCI World 2026**, el programa de ciencia de datos del **Matsuo-Iwasawa Lab, The University of Tokyo**: ROC-AUC **0.774** en el leaderboard público
+- 🤖 Construí un **asistente RAG + LLM local sobre la Ley de Instituciones de Crédito** (799 chunks por artículo, embeddings e5, ChromaDB, re-ranking con cross-encoder, Gemma 3): encuentra el artículo correcto en el top 20 para el **91%** de 22 preguntas de prueba; el re-ranking subió el MRR **+65%** vs la línea base (0.37 → 0.61) — [ver proyecto](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos-inteligencia-artificial/rag-regulacion-bancaria)
+- 🧠 Participé en la competencia de ML de **GCI World 2026**, el programa de ciencia de datos del **Matsuo-Iwasawa Lab, UTokyo**: ROC-AUC **0.774** en el leaderboard público
 - ⚡ **−30% en tiempo de procesamiento** al rediseñar la estructura de la base de datos y las consultas SQL en MAXI
 - 📈 **+10% en ventas** usando el análisis de ventas históricas para decidir el reabastecimiento
 - 💼 **Becario de Desarrollo y Automatización en HSBC GSC** desde mayo 2026 · 🎓 Lic. en Ciencias de Datos para Negocios, UNRC (2024 – 2028) · 🌱 mentoría con **Inroads**
@@ -21,15 +22,16 @@
 <img src="assets/h_projects_es.svg" width="70%" alt="Proyectos destacados">
 
 <p align="center">
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos-inteligencia-artificial/rag-regulacion-bancaria"><img src="assets/card_rag_es.svg" width="49%" alt="RAG de Regulación Bancaria — Recall@20 91%"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting"><img src="assets/card_credit_es.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_es.svg" width="49%" alt="Home Credit Default Risk — AUC 0.774"></a>
 <a href="https://github.com/CatoXP/deteccion-bovinos-cnn"><img src="assets/card_bovinos_es.svg" width="49%" alt="Detección de Patologías Bovinas — 391 imágenes"></a>
-<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_es.svg" width="49%" alt="Consumo Retail Predictivo — Power BI"></a>
 </p>
 
 <img src="assets/h_more_es.svg" width="70%" alt="Más proyectos">
 
 <p align="center">
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_es.svg" width="49%" alt="Consumo Retail Predictivo — Power BI"></a>
 <a href="https://catoxp.github.io/torre-del-caribe-unrc-2026/"><img src="assets/card_torre_es.svg" width="49%" alt="Torre del Caribe — 8.1M registros"></a>
 </p>
 
@@ -52,7 +54,7 @@
 <img src="assets/h_experience_es.svg" width="70%" alt="Experiencia">
 
 **Becario de Desarrollo y Automatización — HSBC GSC** · *mayo 2026 – actual*
-Automatización de procesos operativos con Python, VBA y Excel; macros para consolidar información; aplicación de escritorio en Python (interfaz gráfica) para gestionar procesos internos.
+Área de reporte regulatorio. Automatización de procesos operativos con Python, VBA y Excel; macros para consolidar información; aplicaciones de escritorio en Python (interfaz gráfica) para gestionar procesos internos.
 
 **Database Manager — MAXI** · *sep 2022 – oct 2024*
 Optimización de la estructura y de las consultas SQL (**−30% de tiempo de procesamiento**); administración de un ERP interno; análisis de ventas históricas para decidir el reabastecimiento (**+10% en ventas**).
@@ -71,6 +73,13 @@ Optimización de la estructura y de las consultas SQL (**−30% de tiempo de pro
 <img src="https://img.shields.io/badge/TensorFlow-17171a?style=for-the-badge&logo=tensorflow&logoColor=ff2e3a">
 <img src="https://img.shields.io/badge/Keras-17171a?style=for-the-badge&logo=keras&logoColor=ff2e3a">
 <img src="https://img.shields.io/badge/YOLOv8-17171a?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/RAG-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLMs-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hugging_Face-17171a?style=for-the-badge&logo=huggingface&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/ChromaDB-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ollama-17171a?style=for-the-badge&logo=ollama&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/Gradio-17171a?style=for-the-badge&logo=gradio&logoColor=ff2e3a">
 <br>
 <img src="https://img.shields.io/badge/SQL-ff2e3a?style=for-the-badge&logo=postgresql&logoColor=0a0a0b&labelColor=ff2e3a">
 <img src="https://img.shields.io/badge/MongoDB-ff2e3a?style=for-the-badge&logo=mongodb&logoColor=0a0a0b">
@@ -151,7 +160,7 @@ Optimización de la estructura y de las consultas SQL (**−30% de tiempo de pro
 <img src="assets/h_contact_es.svg" width="70%" alt="Conectemos">
 
 <p align="center">
-Siempre con gusto de platicar sobre <b>ciencia de datos, analítica y machine learning</b>, sobre todo en finanzas y riesgo crediticio.<br><br>
+Siempre con gusto de platicar sobre <b>ciencia de datos, machine learning e ingeniería de IA (RAG y LLMs)</b>, sobre todo en finanzas, riesgo crediticio y regulación.<br><br>
 <a href="https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320"><img src="https://img.shields.io/badge/LinkedIn-ff2e3a?style=for-the-badge&logo=linkedin&logoColor=0a0a0b"></a>
 <a href="mailto:garciasanchezbrandonu@gmail.com"><img src="https://img.shields.io/badge/Email-f2ede3?style=for-the-badge&logo=gmail&logoColor=0a0a0b"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science"><img src="https://img.shields.io/badge/Portafolio-17171a?style=for-the-badge&logo=github&logoColor=ff2e3a"></a>
