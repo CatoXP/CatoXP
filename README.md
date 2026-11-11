@@ -1,10 +1,10 @@
 <div align="center">
 
-<sub><b>🇺🇸 English</b> · <a href="README.es.md">🇲🇽 Español</a></sub>
+<sub><b>🇺🇸 English</b> · <a href="https://github.com/CatoXP/CatoXP/blob/main/README.es.md">🇲🇽 Español</a></sub>
 
 <img src="assets/banner_en.svg" width="100%" alt="URIEL — Data Scientist · ML & AI Engineer · RAG · LLMs · Finance">
 
-<p><a href="#projects"><img src="assets/menu_projects_en.svg" height="44" alt="Projects"></a>&nbsp;<a href="#experience"><img src="assets/menu_experience_en.svg" height="44" alt="Experience"></a>&nbsp;<a href="#stack"><img src="assets/menu_stack_en.svg" height="44" alt="Stack"></a>&nbsp;<a href="#contact"><img src="assets/menu_contact_en.svg" height="44" alt="Contact"></a></p>
+<p><a href="#user-content-projects"><img src="assets/menu_projects_en.svg" height="44" alt="Projects"></a>&nbsp;<a href="#user-content-experience"><img src="assets/menu_experience_en.svg" height="44" alt="Experience"></a>&nbsp;<a href="#user-content-stack"><img src="assets/menu_stack_en.svg" height="44" alt="Stack"></a>&nbsp;<a href="#user-content-contact"><img src="assets/menu_contact_en.svg" height="44" alt="Contact"></a></p>
 
 **Data scientist building machine learning models and LLM-powered tools (RAG) that turn data into decisions** — with a focus on finance, credit risk and banking regulation.
 
