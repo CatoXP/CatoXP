@@ -1,10 +1,10 @@
 <div align="center">
 
-<sub><a href="README.md">🇺🇸 English</a> · <b>🇲🇽 Español</b></sub>
+<sub><a href="https://github.com/CatoXP">🇺🇸 English</a> · <b>🇲🇽 Español</b></sub>
 
 <img src="assets/banner_es.svg" width="100%" alt="URIEL — Científico de Datos · ML & AI Engineer · RAG · LLMs · Finanzas">
 
-<p><a href="#projects"><img src="assets/menu_projects_es.svg" height="44" alt="Proyectos"></a>&nbsp;<a href="#experience"><img src="assets/menu_experience_es.svg" height="44" alt="Experiencia"></a>&nbsp;<a href="#stack"><img src="assets/menu_stack_es.svg" height="44" alt="Stack"></a>&nbsp;<a href="#contact"><img src="assets/menu_contact_es.svg" height="44" alt="Contacto"></a></p>
+<p><a href="#user-content-projects"><img src="assets/menu_projects_es.svg" height="44" alt="Proyectos"></a>&nbsp;<a href="#user-content-experience"><img src="assets/menu_experience_es.svg" height="44" alt="Experiencia"></a>&nbsp;<a href="#user-content-stack"><img src="assets/menu_stack_es.svg" height="44" alt="Stack"></a>&nbsp;<a href="#user-content-contact"><img src="assets/menu_contact_es.svg" height="44" alt="Contacto"></a></p>
 
 **Científico de datos que construye modelos de machine learning y herramientas con LLMs (RAG) para convertir datos en decisiones**, con foco en finanzas, riesgo crediticio y regulación bancaria.
 
