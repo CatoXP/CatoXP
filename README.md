@@ -12,7 +12,7 @@
 
 <img src="assets/h_highlights_en.svg" width="70%" alt="Highlights">
 
-- 🤖 Built a **local RAG + LLM assistant over Mexico's Banking Law** (799 article-level chunks, e5 embeddings, ChromaDB, cross-encoder re-ranking, Gemma 3): finds the right article in the top 20 for **91%** of 22 test questions; re-ranking lifted MRR **+65%** over the baseline (0.37 → 0.61) — [see project](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos-inteligencia-artificial/rag-regulacion-bancaria)
+- 🤖 Built a **local RAG + LLM assistant over Mexico's Banking Law** (799 article-level chunks, e5 embeddings, ChromaDB, cross-encoder re-ranking, Gemma 3): finds the right article in the top 20 for **91%** of 22 test questions; re-ranking lifted MRR **+65%** over the baseline (0.37 → 0.61) — [see project](https://github.com/CatoXP/portfolio-data-science/tree/main/01-ia-engineering/rag-regulacion-bancaria)
 - 🧠 Competed in the ML competition of **GCI World 2026**, the data science program of the **Matsuo-Iwasawa Lab, UTokyo** — public leaderboard ROC-AUC **0.774**
 - ⚡ **−30% processing time** after redesigning database structure and SQL queries at MAXI
 - 📈 **+10% sales** using historical sales analysis to drive restocking decisions
@@ -22,16 +22,16 @@
 <img src="assets/h_projects_en.svg" width="70%" alt="Featured projects">
 
 <p align="center">
-<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos-inteligencia-artificial/rag-regulacion-bancaria"><img src="assets/card_rag_en.svg" width="49%" alt="Banking Regulation RAG — Recall@20 91%"></a>
-<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting"><img src="assets/card_credit_en.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
-<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_en.svg" width="49%" alt="Home Credit Default Risk — AUC 0.774"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/01-ia-engineering/rag-regulacion-bancaria"><img src="assets/card_rag_en.svg" width="49%" alt="Banking Regulation RAG — Recall@20 91%"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/02-machine-learning/credit-scoring-predicting"><img src="assets/card_credit_en.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/02-machine-learning/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_en.svg" width="49%" alt="Home Credit Default Risk — AUC 0.774"></a>
 <a href="https://github.com/CatoXP/deteccion-bovinos-cnn"><img src="assets/card_bovinos_en.svg" width="49%" alt="Cattle Pathology Detection — 391 images"></a>
 </p>
 
 <img src="assets/h_more_en.svg" width="70%" alt="More projects">
 
 <p align="center">
-<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_en.svg" width="49%" alt="Predictive Retail Consumption — Power BI"></a>
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/03-analisis-de-datos/consumo-retail"><img src="assets/card_retail_en.svg" width="49%" alt="Predictive Retail Consumption — Power BI"></a>
 <a href="https://catoxp.github.io/torre-del-caribe-unrc-2026/"><img src="assets/card_torre_en.svg" width="49%" alt="Torre del Caribe — 8.1M rows"></a>
 </p>
 
