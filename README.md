@@ -2,17 +2,18 @@
 
 <sub><b>🇺🇸 English</b> · <a href="README.es.md">🇲🇽 Español</a></sub>
 
-<img src="assets/banner_en.svg" width="100%" alt="URIEL — Business Data Scientist · Finance · AI · Big Data">
+<img src="assets/banner_en.svg" width="100%" alt="URIEL — Data Scientist · ML & AI Engineer · RAG · LLMs · Finance">
 
 <p><a href="#projects"><img src="assets/menu_projects_en.svg" height="44" alt="Projects"></a>&nbsp;<a href="#experience"><img src="assets/menu_experience_en.svg" height="44" alt="Experience"></a>&nbsp;<a href="#stack"><img src="assets/menu_stack_en.svg" height="44" alt="Stack"></a>&nbsp;<a href="#contact"><img src="assets/menu_contact_en.svg" height="44" alt="Contact"></a></p>
 
-**I turn business data into machine learning models and automations that drive decisions** — with a focus on finance and credit risk.
+**Data scientist building machine learning models and LLM-powered tools (RAG) that turn data into decisions** — with a focus on finance, credit risk and banking regulation.
 
 </div>
 
 <img src="assets/h_highlights_en.svg" width="70%" alt="Highlights">
 
-- 🧠 Competed in the ML competition of **GCI World 2026**, the data science program of the **Matsuo-Iwasawa Lab, The University of Tokyo** — public leaderboard ROC-AUC **0.774**
+- 🤖 Built a **local RAG + LLM assistant over Mexico's Banking Law** (799 article-level chunks, e5 embeddings, ChromaDB, cross-encoder re-ranking, Gemma 3): finds the right article in the top 20 for **91%** of 22 test questions; re-ranking lifted MRR **+65%** over the baseline (0.37 → 0.61) — [see project](https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos-inteligencia-artificial/rag-regulacion-bancaria)
+- 🧠 Competed in the ML competition of **GCI World 2026**, the data science program of the **Matsuo-Iwasawa Lab, UTokyo** — public leaderboard ROC-AUC **0.774**
 - ⚡ **−30% processing time** after redesigning database structure and SQL queries at MAXI
 - 📈 **+10% sales** using historical sales analysis to drive restocking decisions
 - 💼 **Development & Automation Intern at HSBC GSC** since May 2026 · 🎓 B.Sc. Data Science for Business, UNRC (2024 – 2028) · 🌱 mentored by **Inroads**
@@ -21,15 +22,16 @@
 <img src="assets/h_projects_en.svg" width="70%" alt="Featured projects">
 
 <p align="center">
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos-inteligencia-artificial/rag-regulacion-bancaria"><img src="assets/card_rag_en.svg" width="49%" alt="Banking Regulation RAG — Recall@20 91%"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/credit-scoring-predicting"><img src="assets/card_credit_en.svg" width="49%" alt="Credit Scoring Prediction — AUC 0.861"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/home-credit-default-risk-gci-utokyo"><img src="assets/card_homecredit_en.svg" width="49%" alt="Home Credit Default Risk — AUC 0.774"></a>
 <a href="https://github.com/CatoXP/deteccion-bovinos-cnn"><img src="assets/card_bovinos_en.svg" width="49%" alt="Cattle Pathology Detection — 391 images"></a>
-<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_en.svg" width="49%" alt="Predictive Retail Consumption — Power BI"></a>
 </p>
 
 <img src="assets/h_more_en.svg" width="70%" alt="More projects">
 
 <p align="center">
+<a href="https://github.com/CatoXP/portfolio-data-science/tree/main/proyectos/analisis-predictivo-consumo-retail"><img src="assets/card_retail_en.svg" width="49%" alt="Predictive Retail Consumption — Power BI"></a>
 <a href="https://catoxp.github.io/torre-del-caribe-unrc-2026/"><img src="assets/card_torre_en.svg" width="49%" alt="Torre del Caribe — 8.1M rows"></a>
 </p>
 
@@ -52,7 +54,7 @@
 <img src="assets/h_experience_en.svg" width="70%" alt="Experience">
 
 **Development & Automation Intern — HSBC GSC** · *May 2026 – present*
-Automation of operational processes with Python, VBA and Excel; macros to consolidate information; a Python desktop app (GUI) to manage internal processes.
+Regulatory reporting area. Automation of operational processes with Python, VBA and Excel; macros to consolidate information; Python desktop apps (GUI) to manage internal processes.
 
 **Database Manager — MAXI** · *Sep 2022 – Oct 2024*
 Database structure and SQL query optimisation (**−30% processing time**); administration of an internal ERP; historical sales analysis for restocking decisions (**+10% sales**).
@@ -71,6 +73,13 @@ Database structure and SQL query optimisation (**−30% processing time**); admi
 <img src="https://img.shields.io/badge/TensorFlow-17171a?style=for-the-badge&logo=tensorflow&logoColor=ff2e3a">
 <img src="https://img.shields.io/badge/Keras-17171a?style=for-the-badge&logo=keras&logoColor=ff2e3a">
 <img src="https://img.shields.io/badge/YOLOv8-17171a?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/RAG-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLMs-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hugging_Face-17171a?style=for-the-badge&logo=huggingface&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/ChromaDB-17171a?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ollama-17171a?style=for-the-badge&logo=ollama&logoColor=ff2e3a">
+<img src="https://img.shields.io/badge/Gradio-17171a?style=for-the-badge&logo=gradio&logoColor=ff2e3a">
 <br>
 <img src="https://img.shields.io/badge/SQL-ff2e3a?style=for-the-badge&logo=postgresql&logoColor=0a0a0b&labelColor=ff2e3a">
 <img src="https://img.shields.io/badge/MongoDB-ff2e3a?style=for-the-badge&logo=mongodb&logoColor=0a0a0b">
@@ -151,7 +160,7 @@ Database structure and SQL query optimisation (**−30% processing time**); admi
 <img src="assets/h_contact_en.svg" width="70%" alt="Let's connect">
 
 <p align="center">
-Always happy to talk about <b>data science, analytics and machine learning</b> — especially in finance and credit risk.<br><br>
+Always happy to talk about <b>data science, machine learning and AI engineering (RAG & LLMs)</b> — especially in finance, credit risk and regulation.<br><br>
 <a href="https://www.linkedin.com/in/brandon-uriel-garcia-sanchez-9ab77b320"><img src="https://img.shields.io/badge/LinkedIn-ff2e3a?style=for-the-badge&logo=linkedin&logoColor=0a0a0b"></a>
 <a href="mailto:garciasanchezbrandonu@gmail.com"><img src="https://img.shields.io/badge/Email-f2ede3?style=for-the-badge&logo=gmail&logoColor=0a0a0b"></a>
 <a href="https://github.com/CatoXP/portfolio-data-science"><img src="https://img.shields.io/badge/Portfolio-17171a?style=for-the-badge&logo=github&logoColor=ff2e3a"></a>
